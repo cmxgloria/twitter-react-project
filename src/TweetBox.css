@@ -1,0 +1,16 @@
+.tweetbox {
+  width: 200px;
+}
+
+.tweetbox textarea {
+  width: 100%;
+}
+
+.tweetbox div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.warning {
+  color: red;
+}

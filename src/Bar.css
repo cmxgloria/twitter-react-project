@@ -1,0 +1,10 @@
+.bar-wrapper {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.bar {
+  height: 10px;
+  background-color: rgb(196, 196, 63);
+  transition: all 300ms linear;
+}
